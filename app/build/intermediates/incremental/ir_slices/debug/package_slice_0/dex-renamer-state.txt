@@ -1,0 +1,4 @@
+#Fri Jun 22 01:20:56 KST 2018
+base.0=C\:\\Users\\gram\\Desktop\\SJ_WTF 2\\SJ_WTF\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\16
+path.0=classes.dex
+renamed.0=classes.dex

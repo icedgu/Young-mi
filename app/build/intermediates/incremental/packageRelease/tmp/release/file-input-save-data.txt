@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Jun 22 02:08:52 KST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\gram\\Desktop\\SJ_WTF 2\\SJ_WTF\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+0.path=classes.dex
+0.set=DEX
+count=1
